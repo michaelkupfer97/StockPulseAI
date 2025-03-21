@@ -16,9 +16,8 @@ Pandas & NumPy (data manipulation)
 Scikit-learn (data preprocessing)
 Matplotlib & Seaborn (visualization)
 5️⃣ Installation & Setup
-bash
-Copy
-Edit
+
+```bash
 # Clone the repository
 git clone https://github.com/yourusername/StockPulseAI.git
 
@@ -27,6 +26,8 @@ cd StockPulseAI
 
 # Install dependencies
 pip install -r requirements.txt
+
+
 6️⃣ Usage
 Run StockPrediction.ipynb in Jupyter Notebook to train and test the model.
 Modify hyperparameters in config.py if needed.
