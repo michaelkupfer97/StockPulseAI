@@ -39,6 +39,7 @@ pip install -r requirements.txt
 Run StockPrediction.ipynb in Jupyter Notebook to train and test the model.
 Modify hyperparameters in config.py if needed.
 Output: The model predicts whether to buy a stock based on historical financial indicators.
+
 7️⃣ Results & Evaluation
 
 The model was trained using historical stock data and evaluated based on accuracy and financial performance metrics. Visualizations of model performance and key financial indicators are included.
