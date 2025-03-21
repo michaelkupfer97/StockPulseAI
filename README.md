@@ -26,7 +26,7 @@ cd StockPulseAI
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 
 6️⃣ Usage
 Run StockPrediction.ipynb in Jupyter Notebook to train and test the model.
